@@ -1,0 +1,15 @@
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/bin/Debug/net9.0/server
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/bin/Debug/net9.0/server.deps.json
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/bin/Debug/net9.0/server.runtimeconfig.json
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/bin/Debug/net9.0/server.dll
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/bin/Debug/net9.0/server.pdb
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.AssemblyInfoInputs.cache
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.AssemblyInfo.cs
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.csproj.CoreCompileInputs.cache
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.sourcelink.json
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.dll
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/refint/server.dll
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.pdb
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/server.genruntimeconfig.cache
+/Users/rudymercy/Documents/Lab4_ISRPO_Pylnev/server/obj/Debug/net9.0/ref/server.dll

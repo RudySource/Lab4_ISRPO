@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace RudyLab4Server
+{
+    public class Program
+    {
+        static void Main(string[] args)
+    {
+          Console.WriteLine(@"
+            H   H  EEEEE  L      L       OOO  
+            H   H  E      L      L      O   O 
+            HHHHH  EEEE   L      L      O   O 
+            H   H  E      L      L      O   O 
+            H   H  EEEEE  LLLLL  LLLLL   OOO  
+            ");
+          Console.WriteLine($"ФИО: Rudy Rudy rudy");
+        }
+    }
+}
